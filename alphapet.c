@@ -7,11 +7,11 @@ void main()
 	scanf("%c",&c);
 	if(c >='a' && c <= 'z' || c >= 'A' && c <= 'Z')
   {
-	printf("yes");
+	printf("Alphapet");
   }
 	else
   {
-	printf("no");
+	printf("Not Alphapet");
      return 0;
      }
      getch();
