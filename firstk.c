@@ -2,8 +2,8 @@
 #include<conio.h>
 void main()
 {
-int n,i,sum=0;
-scanf("%d",&n);
+int a,n,i,sum=0;
+scanf("%d%d",&n,&a);
 for(i=1;i<=n;i++)
 {  
 sum=sum+i;
